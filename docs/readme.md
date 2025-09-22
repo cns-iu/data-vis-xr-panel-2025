@@ -9,6 +9,9 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Sebastian P
 <sup>5</sup> Faculty of Mathematics, University of Vienna, Vienna, Austria\
 <sup>6</sup> CIFAR MacMillan Multiscale Human, Canadian Institute for Advanced Research (CIFAR), Toronto, ON, Canada
 
+# Time and Date
+Wednesday, November 5, 2025 11:15am - 12:30pm (CET)
+
 # Motivation 
 2D visualization frameworks are screen bound and do not provide extensive human-data interaction modes, which XR can offer. 3D systems and environments open up the possibilities of intuitive interaction with three-dimensional data representations - to interpret and use those as effectively as established, mature 2D visualization tools, new supporting frameworks are needed.
 
@@ -37,11 +40,14 @@ The hands-on experience will inform a final discussion synthesizing theoretical 
 
 We will maximize the usefulness of this panel for all attendees, regardless of domain expertise and prior exposure to XR. To that end, panelists will give six-minute lightning talks, followed by a 20-minute moderated panel discussion and Q&A with audience involvement (TALK). Then, using the local presence of the organizers from the University of Vienna team, including Hütter and Menche, a 20-minute demo session will be held where attendees can try out some of the applications discussed in the panel (TRY). While this is active, there will be stations where we will solicit feedback and questions from the audience via a digital whiteboard. Finally, a 15-minute debriefing session will round up the 90-minute panel (TELL).
 
-- Introduction (5 mins): Organizers Bueckle and Hütter introduce the panelists and provide a brief intro to the goals of the panel.
-- TALK (30 mins): Lightning talks (6 mins per speaker) with shared slide deck.
-- Panel discussion and Q\&A (20 mins): Following the lightning talks, attendees (and panelists) will be able to ask (and answer) questions.
-- TRY (20 mins): The audience explores two different VR experiences and then gives feedback via a digital whiteboard. Enough VR equipment will be available accommodate large crowds, and VR headsets will stream to large screens with narration.
-- TELL (15 mins): Debriefing. The most relevant audience comments, questions, and ideas from the board will be discussed. 
+| **Duration [mins]** 	| **Activity**     	| **Description**                                                                                                                                                                                                                   	|
+|---------------------	|------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 5                   	| Introduction     	| Organizers Bueckle and Hütter introduce the panelists and provide a brief intro to the goals of the panel                                                                                                                         	|
+| 30                  	| TALK             	| Lightning talks (6 mins per speaker) with shared slide deck                                                                                                                                                                       	|
+| 20                  	| Panel discussion 	| Following the lightning talks, attendees (and panelists) will be able to ask (and answer) questions                                                                                                                               	|
+| 20                  	| TRY              	| The audience explores two different VR experiences and then gives feedback via a digital whiteboard. Enough VR equipment will be available accommodate large crowds, and VR headsets will stream to large screens with narration. 	|
+| 15                  	| TELL             	| Debriefing: The most relevant audience comments, questions, and ideas from the board will be discussed.                                                                                                                           	|
+|                     	|                  	|          
 
 # TALK: Speakers/Panelists
 
