@@ -15,6 +15,9 @@ Wednesday, November 5, 2025 11:15am - 12:30pm (CET)
 # Motivation 
 2D visualization frameworks are screen bound and do not provide extensive human-data interaction modes, which XR can offer. 3D systems and environments open up the possibilities of intuitive interaction with three-dimensional data representations - to interpret and use those as effectively as established, mature 2D visualization tools, new supporting frameworks are needed.
 
+# Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNdn4Pk3MwE?si=0_8nw_b4DivWlqxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Abstract 
 Numerous formalizations have emerged for creating, interpreting, and teaching data visualizations. The past decade has witnessed significant advances in visualization paradigms beyond keyboard and mouse, like immersive analytics. Mature visualization ecosystems are established for screen-based technologies; however, no counterparts have emerged yet in the immersive visualization domain. Consistent implementations are limited due to scattered tools and platforms, while theoretical frameworks require extension to extended reality (XR).
 
