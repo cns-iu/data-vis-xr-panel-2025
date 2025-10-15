@@ -101,7 +101,7 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 <img src="images/huetter.jpg" width = "25%">
 
-**Christiane V. R. Hütter** is an architect and computational bioengineer as well as Ph.D. Candidate at the Ludwig Boltzmann Institute for Network Medicine, working on visual data exploration in immersive systems. Her work extends beyond disciplines, curating (https://www.whatevr.xyz) and participating in various media art exhibitions (https://ars.electronica.art/center/en/events/deep-space-experience-premiere-connected-how-the-world-is-morethan-the-sum-of-its-parts/).
+**Christiane V. R. Hütter** is an architect and computational bioengineer as well as Ph.D. Candidate at the Ludwig Boltzmann Institute for Network Medicine, working on visual data exploration in immersive systems. Her work extends beyond disciplines, curating ([https://www.whatevr.xyz](https://www.whatevr.xyz)) and participating in various media art exhibitions ([https://ars.electronica.art/center/en/events/deep-space-experience-premiere-connected-how-the-world-is-morethan-the-sum-of-its-parts](https://ars.electronica.art/center/en/events/deep-space-experience-premiere-connected-how-the-world-is-morethan-the-sum-of-its-parts/)).
 
 <img src="images/pirch.jpg" width = "25%">
 
@@ -124,6 +124,10 @@ There will be a Figma board to collect input from users during the TRY phase.
 <img src="images/börner.jpg" width = "25%">
 
 **Katy Börner, Ph.D.**, is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, Core Faculty of Cognitive Science, and Founding Director of CNS at Indiana University. She is a curator of the international Places and Spaces exhibit ([https://scimaps.org](https://scimaps.org/)). She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012, obtained an Alexander von Humboldt Fellowship in 2017, and a Stiftung Charité Visiting Fellowship in 2025. 
+
+# Acknowledgments
+
+This panel was made possible through support from the the [CIFAR MacMillan Multiscale Human program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/).
 
 # About
 
