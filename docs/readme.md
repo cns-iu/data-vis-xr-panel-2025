@@ -1,4 +1,4 @@
-# TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
+# IEEE VIS Panel: TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
 
 Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Sebastian Pirch<sup>2</sup>, Felix Müller<sup>2,3</sup>, Philipp Friedrich<sup>2</sup>, Martin Chiettini<sup>3</sup>, Jörg Menche<sup>2,3,4,5</sup>, Katy Börner<sup>1,6</sup>
 
@@ -10,7 +10,7 @@ Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Sebastian P
 <sup>6</sup> CIFAR MacMillan Multiscale Human, Canadian Institute for Advanced Research (CIFAR), Toronto, ON, Canada
 
 # Time and Date
-Wednesday, November 5, 2025 11:15am - 12:30pm (CET)
+Wednesday, November 5, 2025 11:15am - 12:30pm (CET) during [IEEE VIS](https://ieeevis.org/year/2025/info/program/panels#talk-try-tell-challenges-and-opportunities-for-theory-grounded-data-visualization-in-extended-reality)
 
 # Motivation 
 2D visualization frameworks are screen bound and do not provide extensive human-data interaction modes, which XR can offer. 3D systems and environments open up the possibilities of intuitive interaction with three-dimensional data representations - to interpret and use those as effectively as established, mature 2D visualization tools, new supporting frameworks are needed.
