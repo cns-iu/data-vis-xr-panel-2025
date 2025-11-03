@@ -1,4 +1,4 @@
-# IEEE VIS Panel: TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
+# [IEEE VIS Panel] TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
 
 Andreas Bueckle<sup>1</sup>, Christiane V. R. Hütter<sup>2,3</sup>, Sebastian Pirch<sup>2</sup>, Felix Müller<sup>2,3</sup>, Philipp Friedrich<sup>2</sup>, Martin Chiettini<sup>3</sup>, Jörg Menche<sup>2,3,4,5</sup>, Katy Börner<sup>1,6</sup>
 
