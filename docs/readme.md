@@ -113,6 +113,8 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 **Felix Müller** is a senior data scientist at the Ludwig Boltzmann Institute for Network Medicine, focusing on biological networks. He applies modern computational techniques to analyze biomedical data, integrating concepts from network theory, statistical physics, and machine learning to extract meaningful insights from large-scale biological interaction networks.
 
+<img src="images/friedrich.png" width = "25%">
+
 **Philipp Friedrich** is a software architect at the Ludwig Boltzmann Institute of Network Medicine at the University of Vienna, designing applications and systems tailored to the interactive analysis of large-scale complex and diverse data modalities.
 
 <img src="images/chiettini.jpg" width = "25%">
