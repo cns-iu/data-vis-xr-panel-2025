@@ -63,7 +63,7 @@ We will maximize the usefulness of this panel for all attendees, regardless of d
 
 <img src="images/raidou.jpg" width = "25%">
 
-**Dr. Renata G. Raidou**, Associate Professor in Biomedical Visualization and Visual Analytics, Institute of Visual Computing and Human-Centered Technology, Technical University Vienna, Austria.
+**Dr. Renata G. Raidou**, Associate Professor in Biomedical Visualization and Visual Analytics, Institute of Visual Computing and Human-Centered Technology, Vienna University of Technology, Austria.
 **Web**: [http://www.renataraidou.com](http://www.renataraidou.com)
 **Contribution/Expertise**: Visual analytics researcher with focus on data visualization within and beyond screens, including physical data representation approaches; application-driven research on data exploration and visual analytics; to extend discussion towards immersive digital and physical representation of complex data for diverse audiences.
 
@@ -75,7 +75,7 @@ We will maximize the usefulness of this panel for all attendees, regardless of d
 
 <img src="images/kaufmann.png" width = "25%">
 
-**Dr. Hannes Kaufmann**, Full Professor, Technical University Vienna, Austria.
+**Dr. Hannes Kaufmann**, Full Professor, Vienna University of Technology, Austria.
 **Web**: [https://www.vr.tuwien.ac.at/people/hannes-kaufmann](https://www.vr.tuwien.ac.at/people/hannes-kaufmann)
 **Contribution/Expertise**: Virtual and augmented reality; design and realization of mixed reality lab including studios for immersive video recording, streaming and remote collaborations; to share user (developer) perspectives of software/hardware state-of-art.
 
