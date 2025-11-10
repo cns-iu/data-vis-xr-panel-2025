@@ -135,4 +135,4 @@ This panel was made possible through support from the the [CIFAR MacMillan Multi
 
 # About
 
-This companion website for the panel is maintained by the organizers. Andreas Bueckle, Christiane V.R. Hütter, and Martin Shiettini contributed text and images.
+This companion website for the panel is maintained by the organizers. Andreas Bueckle, Christiane V.R. Hütter, and Martin Chettini contributed text and images.
