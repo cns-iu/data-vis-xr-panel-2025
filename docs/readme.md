@@ -17,8 +17,8 @@ Wednesday, November 5, 2025 11:15am - 12:30pm (CET) in room 0.11+0.12 during [IE
 
 # Images from the Event
 
-![Images from the event (1)](/docs/images/pics1.png)
-![Images from the event (2)](/docs/images/pics2.png)
+![Images from the event (1)](images/pics1.png)
+![Images from the event (2)](images/pics2.png)
 
 # Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNdn4Pk3MwE?si=0_8nw_b4DivWlqxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
