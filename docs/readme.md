@@ -86,7 +86,7 @@ We will maximize the usefulness of this panel for all attendees, regardless of d
 
 <img src="images/mindek.png" width = "25%">
 
-**Peter Mindek, Ph.D.**, Co-founder and Chief Technical Officer, Nanographics.
+**Dr. Peter Mindek**, Co-founder and Chief Technical Officer, Nanographics.
 **Web**: [https://nanographics.at](https://nanographics.at )
 **Contribution/Expertise**: Scientific visualization, storytelling, visual abstraction, software architecture; to share a developer's perspective on software requirements for creating high-quality visuals in real-time for interactive applications.
 
