@@ -134,6 +134,25 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 **Katy Börner, Ph.D.**, is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, Core Faculty of Cognitive Science, and Founding Director of CNS at Indiana University. She is a curator of the international Places and Spaces exhibit ([https://scimaps.org](https://scimaps.org/)). She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012, obtained an Alexander von Humboldt Fellowship in 2017, and a Stiftung Charité Visiting Fellowship in 2025. 
 
+# Supplemental Table 3 for Visualization Viewpoint
+
+Existing XR visualization libraries plus their key properties and links to resources. This table is not exhaustive.
+
+| Name | Platform | Description | Resources |
+|---|---|---|---|
+| Immersive Analytics Toolkit (IATK) | Unity | A Unity project to help build high quality, interactive and scalable data visualisations in Immersive Environments | [Paper](https://ieeexplore.ieee.org/document/8797978), [Code](https://github.com/MaximeCordeil/IATK) |
+| ImAxes | Unity | An immersive system for exploring multivariate data using fluid, modeless interaction, based on embodied data axes to be manipulated like physical objects in space. | [Paper](https://dl.acm.org/doi/10.1145/3126594.3126613), [Code](https://github.com/MaximeCordeil/ImAxes) |
+| anu.js | WebXR | An immersive data visualization toolkit built on the web-based 3D game engine Babylon.js and WebXR, uses by D3 | [Code](https://github.com/jpmorganchase/anu) |
+| XROps | Unity/web | A web-based authoring system using interactive visual programming without coding expertise to create and modify immersive analytics applications dynamically | [Paper](https://ieeexplore.ieee.org/document/10906612) |
+| u2vis | Unity | A basic framework with 2D and 3D charts (like scatter plots, line charts, pie charts and parallel coordinates) to build extendable and customizable visualizations with AR/VR support. | [Code](https://github.com/imldresden/u2vis) |
+| DashSpace | WebXR | High-level visualization toolkit for AR/XR with direct manipulation authoring | [Paper](https://ieeexplore.ieee.org/document/10869395) |
+| SpatialStrates | WebXR | Web-based middleware for AR/XR/VR rendering; supports DashSpace | [Paper](https://dl.acm.org/doi/10.1145/3746059.3747708), [Code](https://github.com/Webstrates/Spatialstrates) |
+| DataDiVR web app | Unreal | A flask server for server-client connection from python-based backend to unreal engine-based frontend | [Paper](https://www.nature.com/articles/s41467-021-22570-w), [Code](https://github.com/menchelab/DataDiVR_WebApp) |
+| Data Charts (Plugin) | Unreal | A collection of Blueprint-ready actors for Pie, Bar, and Line charts | [Documentation](https://dev.epicgames.com/community/learning/tutorials/MPDr/fab-the-unreal-engine-data-charts-plugin) |
+| VR Expansion (Plugin) | Unreal | To help facilitate advanced Virtual Reality interactions and gameplay elements, such as handling large amounts of meshes | [Documentation](https://vreue4.com/) |
+| Cognitive3D | Unreal | Focuses on the spatial representation of complex behavioral data | [Code](https://github.com/CognitiveVR/cvr-sdk-unreal), [Documentation](https://docs.cognitive3d.com/unreal/get-started/) |
+
+
 # Acknowledgments
 
 This panel was made possible through support from the the [CIFAR MacMillan Multiscale Human program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/).
