@@ -147,8 +147,30 @@ Overview of the three major platforms for XR development and their key features.
 | Performance | Generally well-optimized for a broad range of hardware, better for mobile/lower-end devices | Requires significantly higher-end hardware (GPU/RAM) to leverage full graphical features, default settings need much compute | Lower performance ceiling than native game engines due to browser overhead, but often sufficient for many data visualization tasks |
 | Deployment/Access | Builds for almost all environments (desktop, mobile, stand-alone VR, WebXR), also gaming consoles | Excels on PC VR and high-end consoles; limited official WebXR support | Highest accessibility; no installation required; runs on any WebXR-compatible browser/device |
 
-
 # Supplemental Table 2 for Visualization Viewpoint
+
+Key terminology for XR visualization.
+
+| Term | Definition |
+|---|---|
+| (Native) game engine | A software platform that supplies core tools and systems to create video games; it handles key features such as graphics, physics, sound, and AI, thus allowing creators to concentrate on designing gameplay and content instead of developing these systems from scratch. Commercial examples are [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/); open-source alternatives are [Godot](https://godotengine.org/), [Panda 3D](https://www.panda3d.org), and [Construct 3](https://www.construct.net); and lightweight 2D/3D web rendering/game frameworks are [Phaser](https://phaser.io) and [Babylon.js](https://www.babylonjs.com/games/). |
+| Data Physicalization | Representing data in a physical form through, e.g., rapid prototyping technologies as stand-alone data representation or to enhance/inform digital/virtual environments |
+| Desktop environment | A computational setup that runs applications on a desktop device only (PC, laptop with 2D screen) |
+| Embodied exploration | Exploring data in an immersive setting beyond screens while using one’s own body as an input device |
+| Extended Reality (XR) | Includes all physical (“real”) and virtual combined environments and their human-computer interactions, such as VR, AR and MR. Corresponds to the spectrum of experiences outside of “real environments” in Milgram and Kishino’s reality-virtuality continuum but also includes VR on the very outside |
+| Framework | A structured set of principles, rules, and processes that guide the transformation of data into visual representations and explain how those representations convey meaning to an audience. Examples are the Grammar of Graphics or the Data Visualization Literacy Framework |
+| Grammar of Graphics | A theoretical framework to enable consistent reasoning about visualization design |
+| Hybrid environment | A computational setup that runs applications on a desktop and an immersive device at the same time (e.g., PC VR or WebXR on a desktop with concurrent session in an XR device) |
+| Immersive Analytics | A subdiscipline of information visualization that focuses on theory and practice of using embodied tools to help users understand data and make decisions. Addresses the challenge of today's data volume and complexity that exceed our ability to comprehend and use it effectively for decision-making. Draws from fields like data visualization, virtual reality, and human-computer interaction to support both individual and collaborative work. |
+| Immersive environment | A computational setup that runs applications on an XR device only (e.g., stand-alone VR) |
+| Interface modalities | UI modes such as immersive, desktop, and hybrid environments |
+| Platform | A code base, like a game engine (e.g. Unity or Unreal Engine), that allows development of XR experiences. A web-based platform is WebXR. |
+| Scaffold Toolbox | Open, live, and realtime programmable capabilities of operating an application, applicable to diverse data modalities and shifting from single-purpose to multi-purpose usability |
+| Stand-alone | The headset-only operation mode of an XR device without the need of a PC-powered setup |
+| Visualization library | A package in a programming language, e.g., an R/JavaScript package, a Python module, or another reusable coding artifact for creating data visualizations, such as *seaborn*, *ggplot2*, or *Vega-Lite* |
+| XR device | A piece of hardware to experience XR content, e.g., a head-mounted VR device (Meta Quest, Apple Vision Pro) or AR glasses (HoloLens 2, Magic Leap). Many XR devices support multiple interface modalities (hybrid, immersive) and levels of immersion (VR, AR, MR). For example, the Meta Quest headsets and the Apple Vision Pro support VR, AR, and MR applications (although nomenclature for these might differ by manufacturer). |
+
+# Supplemental Table 3 for Visualization Viewpoint
 
 Existing XR visualization libraries plus their key properties and links to resources. This table is not exhaustive.
 
