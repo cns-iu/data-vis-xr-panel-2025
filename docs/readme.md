@@ -136,19 +136,6 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 # Supplemental Table 1 for Visualization Viewpoint
 
-Overview of the three major platforms for XR development and their key features.
-
-| Property | Unity | Unreal Engine | WebXR |
-|---|---|---|---|
-| Platform | Game engine; commercial | Game engine; commercial | Web API for using XR devices in a web browser; predominantly open-source |
-| Primary Strength | Cross-platform, rapid prototyping, mobile/stand-alone VR, big community and learning resources | High-fidelity graphics, photorealism, complex physics, cinematic quality, no programming experience needed ([Blueprints](https://www.unrealengine.com/fr/blog/introduction-to-blueprints)) | Accessibility, instant access via web browser, platform-agnostic, low barrier to entry, no installation needed for end user |
-| Scientific Use Case | Interactive training, medical simulations, mobile AR/VR field studies, UI-heavy apps | High-resolution scientific visualization, complex real-time physical simulations, architectural/engineering visualization | Dissemination of results, online education, lightweight data visualization, immersive analytics on the web |
-| Visual Fidelity | Very good, but often requires more configuration to match Unreal Engine's out-of-the-box quality | Industry-leading for photorealistic and high-end rendering | Dependent on the underlying library and browser capabilities; typically lower than native game engines |
-| Performance | Generally well-optimized for a broad range of hardware, better for mobile/lower-end devices | Requires significantly higher-end hardware (GPU/RAM) to leverage full graphical features, default settings need much compute | Lower performance ceiling than native game engines due to browser overhead, but often sufficient for many data visualization tasks |
-| Deployment/Access | Builds for almost all environments (desktop, mobile, stand-alone VR, WebXR), also gaming consoles | Excels on PC VR and high-end consoles; limited official WebXR support | Highest accessibility; no installation required; runs on any WebXR-compatible browser/device |
-
-# Supplemental Table 2 for Visualization Viewpoint
-
 Key terminology for XR visualization.
 
 | Term | Definition |
@@ -169,6 +156,19 @@ Key terminology for XR visualization.
 | Stand-alone | The headset-only operation mode of an XR device without the need of a PC-powered setup |
 | Visualization library | A package in a programming language, e.g., an R/JavaScript package, a Python module, or another reusable coding artifact for creating data visualizations, such as *seaborn*, *ggplot2*, or *Vega-Lite* |
 | XR device | A piece of hardware to experience XR content, e.g., a head-mounted VR device (Meta Quest, Apple Vision Pro) or AR glasses (HoloLens 2, Magic Leap). Many XR devices support multiple interface modalities (hybrid, immersive) and levels of immersion (VR, AR, MR). For example, the Meta Quest headsets and the Apple Vision Pro support VR, AR, and MR applications (although nomenclature for these might differ by manufacturer). |
+
+# Supplemental Table 2 for Visualization Viewpoint
+
+Overview of the three major platforms for XR development and their key features.
+
+| Property | Unity | Unreal Engine | WebXR |
+|---|---|---|---|
+| Platform | Game engine; commercial | Game engine; commercial | Web API for using XR devices in a web browser; predominantly open-source |
+| Primary Strength | Cross-platform, rapid prototyping, mobile/stand-alone VR, big community and learning resources | High-fidelity graphics, photorealism, complex physics, cinematic quality, no programming experience needed ([Blueprints](https://www.unrealengine.com/fr/blog/introduction-to-blueprints)) | Accessibility, instant access via web browser, platform-agnostic, low barrier to entry, no installation needed for end user |
+| Scientific Use Case | Interactive training, medical simulations, mobile AR/VR field studies, UI-heavy apps | High-resolution scientific visualization, complex real-time physical simulations, architectural/engineering visualization | Dissemination of results, online education, lightweight data visualization, immersive analytics on the web |
+| Visual Fidelity | Very good, but often requires more configuration to match Unreal Engine's out-of-the-box quality | Industry-leading for photorealistic and high-end rendering | Dependent on the underlying library and browser capabilities; typically lower than native game engines |
+| Performance | Generally well-optimized for a broad range of hardware, better for mobile/lower-end devices | Requires significantly higher-end hardware (GPU/RAM) to leverage full graphical features, default settings need much compute | Lower performance ceiling than native game engines due to browser overhead, but often sufficient for many data visualization tasks |
+| Deployment/Access | Builds for almost all environments (desktop, mobile, stand-alone VR, WebXR), also gaming consoles | Excels on PC VR and high-end consoles; limited official WebXR support | Highest accessibility; no installation required; runs on any WebXR-compatible browser/device |
 
 # Supplemental Table 3 for Visualization Viewpoint
 
