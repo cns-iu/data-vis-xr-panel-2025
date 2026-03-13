@@ -134,7 +134,7 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 **Katy Börner, Ph.D.**, is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, Core Faculty of Cognitive Science, and Founding Director of CNS at Indiana University. She is a curator of the international Places and Spaces exhibit ([https://scimaps.org](https://scimaps.org/)). She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012, obtained an Alexander von Humboldt Fellowship in 2017, and a Stiftung Charité Visiting Fellowship in 2025. 
 
-# Descriptoion of Applications for Visualization Viewpoint
+# Description of VR Applications for Visualization Viewpoint
 
 xxx
 
