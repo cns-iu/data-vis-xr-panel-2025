@@ -136,7 +136,45 @@ There will be a Figma board to collect input from users during the TRY phase.
 
 # Description of VR Applications for Visualization Viewpoint
 
-xxx
+## HRA Organ Gallery in VR
+
+The [HRA Organ Gallery in VR](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1162723/full) allows users to explore 77 organs with 2,600+ registered tissue blocks in the HRA v2.4 as well as single-cell data from eight organs, harmonized into the multi-scale [HRA](https://humanatlas.io/) in immersive 3D and in their true size, location, and spatial relation to each other. It is under active development using Unity and runs on the Meta Quest 2, 3, 3S, and Pro headsets as a stand-alone application. It can be downloaded by anyone, free of charge, from the [Meta Quest Store](https://www.meta.com/en-gb/experiences/hra-organ-gallery/5696814507101529/).
+
+It features 3D meshes (organs, tissue blocks, light-sheet datasets, and confocal microscopy), dots (representing cells in 2D/3D space), and 2D/3D data visualizations (3D spike plots, bar graphs, scatter graphs) to visualize biomarker expression values for senescent cells and light-sheet microscopy. The 3D spike plot shown in **Fig. 1** was created using standard UI components in Unity, i.e., dot sprites for the about 5,000 dots on the ground and line meshes for the 3D spikes. No visualization library was used. A detailed walkthrough of the data and visualization shown is provided on [YouTube](https://www.youtube.com/watch?v=Wy0BCOFWClk).
+
+![3D spike plot visualization](images/fig1.png)
+
+*Supplemental Figure 1: Among other visualization types, the HRA Organ Gallery enables the creation of 3D spike plots for biomarkers expressions over a [Visium slide](https://www.10xgenomics.com/platforms/visium), where each dot contains average expressions for eight senescence biomarkers (also called hallmarks) for all the cells captured in that circular area.*
+
+---
+
+## Data DiVR
+
+[Data DiVR](https://www.nature.com/articles/s41467-021-22570-w) is a VR data visualization platform developed with Unreal Engine that allows users to explore complex datasets within a Windows-based desktop environment using [different network layout algorithms](https://www.nature.com/articles/s43588-022-00199-z).
+
+It features points, voxels, and node-link diagrams representing systems such as protein-protein interaction networks with large node and edge counts, enabling the analysis of both spatial and relational information. The tool offers flexible interface modalities, featuring an immersive VR experience with a dedicated graphical UI (GUI) inside the virtual environment, as well as a desktop mode where a 2D GUI and a 2.5D visualization preview are displayed.
+
+Designed for collaboration, both modalities, i.e., VR and desktop, can be used in a joint data exploration process, supporting a multi-player setup that facilitates mixed user scenarios, allowing seamless interaction between users in VR and those on traditional screens (VR-to-VR, VR-to-desktop, or desktop-to-desktop).
+
+![Data DiVR network visualization](images/fig2.png)
+
+*Supplemental Figure 2: Data DiVR enables the exploration of networks with [different network layout algorithms](https://www.nature.com/articles/s43588-022-00199-z) in a 3D, embodied setting.*
+
+---
+
+## DashSpace
+
+[DashSpace](https://ieeexplore.ieee.org/document/10869395) is a live, collaborative platform for immersive and ubiquitous analytics that allows users to explore and author visualizations in shared 3D environments using open web standards like WebXR.
+
+Developed on the [Webstrates](https://webstrates.net/) software stack, it runs directly in browsers on various devices, including smartphones, tablets, and XR devices like the Meta Quest 3 and Apple Vision Pro, without requiring native app installation.
+
+It supports a range of visualization types, from legacy 2D charts (*D3* and *Vega-Lite*) to 3D representations using the [Optomancy grammar](https://dl.acm.org/doi/abs/10.1109/TVCG.2023.3326580), which can be dynamically constructed or modified by dragging and dropping specification "snippets" in XR.
+
+DashSpace facilitates both co-located and remote collaboration through real-time state persistence, 3D avatars with integrated [WebRTC](https://webrtc.org/) video feeds, and cross-platform screen sharing.
+
+![Participant analyzing data in AR using DashSpace](images/fig3.png)
+
+*Supplemental Figure 3: Participant analyzing data in AR using DashSpace (anonymized through creative license). At this point in the study, the participant spontaneously said “I feel like Iron Man!” after modifying three visualizations by adding a single piece that connects to all three and sorts their X-axis.*
 
 # Supplemental Table 1 for Visualization Viewpoint
 
